@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/div_report_website`,
   siteMetadata: {
     title: `Gatsby Starter Krisp`,
     description: `A Clean, Minimal and Responsive Site`,
